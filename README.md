@@ -1,4 +1,3 @@
 <h1> O jogo do Número secreto</h1>
-<p> Esse jogo  foi desenvolvido nas minhas de javacript no curso da alura</p>
-
+Este é um jogo simples de adivinhação de números, onde o jogador tenta adivinhar um número secreto escolhido aleatoriamente pelo computador. O jogo fornece dicas se o palpite do jogador é maior ou menor do que o número secreto.
 https://jogodonmerosecreto.netlify.app
